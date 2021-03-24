@@ -1,0 +1,70 @@
+body {
+  height: 100%;
+  font-family: 'Roboto Mono',monospace;
+  min-height: 400px;
+  background-image: url('https://images.unsplash.com/photo-1565373679107-344d38dbf734?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&q=80');
+  /*background-size: 100vh;
+  background-position: center bottom;*/
+  background-repeat: no-repeat;
+}
+
+.container {
+  text-align: center;
+  padding: 10%;
+  height: 56vh;
+  width: 60vh;
+  background-color: rgba(46, 71, 100, 0.905);
+  border-radius: 20px;
+  margin: auto;
+}
+
+.page-title {
+  color: white;
+  margin: 0 0 3px;
+}
+
+.page-subtitle {
+  color: white;
+  margin-top: 5px;
+}
+
+.page-logo {
+  width: 200px;
+}
+
+p {
+  color: white;
+}
+
+ #inputUser {
+  font-size: 15px;
+  height: 22px;
+  background-color: #f2f2f2;
+  border: 1.5px solid #323232;
+  border-radius: 3px;
+  text-align: center;
+ }
+
+ #opcaoMoeda{
+  height:28px;
+  width: 200px;
+  font-size: 15px;
+  border-radius: 3px;
+  text-align: center;
+ }
+  
+body .container button {
+  font-size: 15px;
+  width: 110px;
+	height: 35px;
+  border-radius: 4px;
+  color: whitesmoke;
+  background-color: rgba(14, 53, 99, 0.905);
+}
+
+.github-logo {
+  width: 40px;
+  position: absolute;
+  top: 10px;
+  right:10px;
+}
