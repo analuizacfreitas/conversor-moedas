@@ -54,6 +54,7 @@ p {
  }
   
 body .container button {
+  cursor: pointer;
   font-size: 15px;
   width: 110px;
 	height: 35px;
